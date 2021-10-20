@@ -4,6 +4,9 @@ A Music Player App using React JS.
 
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
 
+### Website Link: https://music-player-lirajkhanna.netlify.app/
+[![Website](https://api.netlify.com/api/v1/badges/6b12d874-fee0-4645-924b-5ecd0ce15080/deploy-status)](https://music-player-lirajkhanna.netlify.app/)
+
 ## Available Scripts
 
 In the project directory, you can run:
