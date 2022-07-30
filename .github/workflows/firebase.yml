@@ -45,6 +45,6 @@ jobs:
       - name: Depoy to Firebase
         uses: w9jds/firebase-action@master
         with:
-          args: deploy --only hosting
+          args: deploy --only hosting:trial-a4d45,
         env:
           FIREBASE_TOKEN: ${{ secrets.FIREBASE_TOKEN }}
